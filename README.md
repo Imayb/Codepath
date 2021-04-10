@@ -40,7 +40,7 @@ Vulnerability #2: __________________
 
 Description:
 
-<img src="green-vuln2.gif">
+<img src=>
 
 
 ## Red
