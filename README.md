@@ -34,7 +34,7 @@ Vulnerability #1: Cross-Site Scripting
 
 Description:
 
-<img src="green-vuln1.gif">
+<img src="https://gph.is/g/EqL2RWn">
 
 Vulnerability #2: __________________
 
