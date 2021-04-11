@@ -16,11 +16,11 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: Session Hijacking
 
-Description:
+Description:I logged into the target using a chrome browser and grabbed the session ID and gave that one to the atacker, a firefox browser, then changed the url to the staff menu area and was able to access it without having to log in.
 
-<img src="blue-vuln1.gif">
+<img src="https://media.giphy.com/media/w8ABSaABPoFjGrJLXy/giphy.gif">
 
 Vulnerability #2: __________________
 
