@@ -1,5 +1,5 @@
 # Project 8 - Pentesting Live Targets
-Time spent: 4.5 hours spent in total
+Time spent: 7 hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -36,7 +36,7 @@ Description:
 
 <"https://media.giphy.com/media/0Xe5SZmtOR5DGYvTKS/giphy.mp4">
 
-Vulnerability #2: __________________
+Vulnerability #2: User Enumeration
 
 Description:
 
