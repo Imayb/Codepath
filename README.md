@@ -1,5 +1,5 @@
 # Project 8 - Pentesting Live Targets
-Time spent: 8.5 hours spent in total
+Time spent: 10 hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -18,7 +18,7 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 Vulnerability #1: Session Hijacking
 
-Description:I logged into the target using a chrome browser and grabbed the session ID and gave that one to the atacker, a firefox browser, then changed the url to the staff menu area and was able to access it without having to log in.
+Description: Session Hijacking attack compromises the seassion token by stealing a valid session to gain unauthorized access to a web server. I logged into the target using a chrome browser and grabbed the session ID and gave that one to the atacker, a firefox browser, then changed the url to the staff menu area and was able to access it without having to log in.
 
 <img src="https://media.giphy.com/media/w8ABSaABPoFjGrJLXy/giphy.gif">
 
@@ -32,7 +32,7 @@ Description:
 
 Vulnerability #1: Cross-Site Scripting
 
-Description:
+Description: I injected an alert script that gets triggered when accessing the staff feedback area.
 
 <img src="https://media.giphy.com/media/0Xe5SZmtOR5DGYvTKS/giphy.gif">
 
@@ -47,9 +47,9 @@ Description:
 
 Vulnerability #1: Insecure Direct Object Reference
 
-Description:
+Description: Insecure direct object reference is a type of access control vulnerability that arises when a website or application implements user-supplied input to access objects directly. By modifying the ID value in the URL I was able to see salesperson that the other colors did not allow by bypassing access controls.
 
-<img src="red-vuln1.gif">
+<img src="https://media.giphy.com/media/mzH8Cpup7lHYj292jj/giphy.gif">
 
 Vulnerability #2: __________________
 
