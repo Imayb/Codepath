@@ -34,7 +34,7 @@ Vulnerability #1: Cross-Site Scripting
 
 Description:
 
-<"https://media.giphy.com/media/0Xe5SZmtOR5DGYvTKS/giphy.mp4">
+<img src="https://media.giphy.com/media/0Xe5SZmtOR5DGYvTKS/giphy.mp4">
 
 Vulnerability #2: User Enumeration
 
