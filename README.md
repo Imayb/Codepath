@@ -36,9 +36,9 @@ Description: I injected an alert script that gets triggered when accessing the s
 
 <img src="https://media.giphy.com/media/0Xe5SZmtOR5DGYvTKS/giphy.gif">
 
-Vulnerability #2: User Enumeration
+Vulnerability #2: 
 
-Description:
+Description: User Enumeration
 
 <img src=>
 
@@ -51,7 +51,7 @@ Description: Insecure direct object reference is a type of access control vulner
 
 <img src="https://media.giphy.com/media/mzH8Cpup7lHYj292jj/giphy.gif">
 
-Vulnerability #2: __________________
+Vulnerability #2:
 
 Description:
 
