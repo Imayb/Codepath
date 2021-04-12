@@ -58,6 +58,4 @@ Description:
 <img src="red-vuln2.gif">
 
 
-## Notes
 
-Describe any challenges encountered while doing the work
