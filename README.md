@@ -36,9 +36,9 @@ Description: I injected an alert script that gets triggered when accessing the s
 
 <img src="https://media.giphy.com/media/0Xe5SZmtOR5DGYvTKS/giphy.gif">
 
-Vulnerability #2: 
+Vulnerability #2: User Enumeration
 
-Description: User Enumeration
+Description: 
 
 <img src=>
 
