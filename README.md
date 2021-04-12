@@ -22,7 +22,7 @@ Description: Session Hijacking attack compromises the seassion token by stealing
 
 <img src="https://media.giphy.com/media/w8ABSaABPoFjGrJLXy/giphy.gif">
 
-Vulnerability #2: __________________
+Vulnerability #2: SQL Injection
 
 Description:
 
