@@ -1,5 +1,5 @@
 # Project 8 - Pentesting Live Targets
-Time spent: 10 hours spent in total
+Time spent: 11 hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -24,9 +24,9 @@ Description: Session Hijacking attack compromises the seassion token by stealing
 
 Vulnerability #2: SQL Injection
 
-Description:
+Description: I checked to see if the salesperson ID would accept an SQL query a "database query failed" message popped up which informs me that this color and area is vulnerable to this type of attack. I injected a few others and one of them gave me access to "Daron Burke" salesperson ID. 
 
-<img src="blue-vuln2.gif">
+<img src="https://media.giphy.com/media/6ZBTR5w56HEW4hFrqQ/giphy.gif">
 
 ## Green
 
